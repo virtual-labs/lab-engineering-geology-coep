@@ -1,0 +1,73 @@
+{
+    "broadArea": {
+        "name": "Civil Engineering",
+        "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+    },
+    "lab": "Engineering Geology",
+    "lab_display_name": "Engineering Geology",
+    "deployLab": true,
+    "phase": ,
+    "collegeName": "coep",
+    "baseUrl": "eg-coep.vlabs.ac.in",
+    "introduction": "Minerals - </br></br> - A mineral is a naturally occurring substance which is usually solid, crystalline, stable at room temperature.</br> - Minerals are inorganic compounds and are crystalline solids.</br> - Non-crystalline materials, synthetic minerals, biological minerals, and anthropogenic minerals are not, in general, considered to be true materials.</br> - We generally classify minerals based on their chemical composition by the atomic structure and crystal chemistry of the minerals. The most common physical properties are crystal form, color, hardness, cleavage, and specific gravity. </br></br></br> Igneous rocks - </br></br> - Formed when molten rock (magma or lava) cools and solidifies.</br></br></br> Sedimentary rocks - </br></br> These are formed due to the weathering and erosion of the pre-existing rocks. Sedimentary Rocks are classified on the basis of the character of the mineral and process which leads to its deposition. They accumulate in layers known as Sediments. </br></br></br> Metamorphic rocks - </br></br> - Metamorphic Rocks are formed through the transformation of the pre-existing rocks under increased temperature and pressure conditions. This process of transformation is known as Metamorphism. Formation of Metamorphism rock from a pre-existing rock; is controlled by the following parameters- Temperature, Pressure, Chemically active fluids which are known as Metamorphism agents.",
+    "experiments": [
+     {
+      "name": "Identification of Minerals",
+      "short-name": "identification-of-minerals",
+      "repo": "https://github.com/virtual-labs/exp-identification-of-minerals-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Identification of Igneous Rocks",
+      "short-name": "igneous-rocks",
+      "repo": "https://github.com/virtual-labs/exp-igneous-rocks-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Textural Variation in Igneous Rocks",
+      "short-name": "textural-variation-igneous-rocks",
+      "repo": "https://github.com/virtual-labs/exp-textural-variation-igneous-rocks-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Identification of Sedimentary Rocks",
+      "short-name": "sedimentary-rocks-identification",
+      "repo": "https://github.com/virtual-labs/exp-sedimentary-rocks-identification-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Textural Variation in Sedimentary Rocks",
+      "short-name": "textural-variation-sedimentary-rocks",
+      "repo": "https://github.com/virtual-labs/exp-textural-variation-sedimentary-rocks-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Identification of Metamorphic Rocks",
+      "short-name": "metamorphic-rocks",
+      "repo": "https://github.com/virtual-labs/exp-metamorphic-rocks-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Textural Variation in Metamorphic Rocks",
+      "short-name": "textural-variation-metamorphic-rocks",
+      "repo": "https://github.com/virtual-labs/exp-textural-variation-metamorphic-rocks-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+    ],
+    "targetAudience": {
+        "UG": ["Undergraduate students of Civil Engineering, Graduate student of Civil Engineering."],
+        "PG": ["Post-graduate students of Civil Engineering, undergraduate/postgraduate science student pursuing degree in Geology"]
+    },
+    "objective": "- To understand the role of geology in the design and construction process of underground openings in rocks. </br>- To apply geological concepts and approaches on rock engineering projects.To identify and classify rock using basic geological classification systems.</br>- To use the geological literature to establish the geotechnical framework needed to properly design and construct heavy civil works rock projects.</br>- To identify and characterize intact rock/rock mass properties.",
+    "courseAlignment": {
+        "description": "All institutes who offer a course in civil engineering.",
+        "universities": ["All institutes who offer a course in civil engineering."]
+    }
+}
