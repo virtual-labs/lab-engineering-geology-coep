@@ -1,12 +1,13 @@
 {
     "broadArea": {
         "name": "Civil Engineering",
-        "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+        "link": "https://www.vlab.co.in/broad-area-civil-engineering",
+        "code": "CIVIL"
     },
     "lab": "Engineering Geology",
     "lab_display_name": "Engineering Geology",
     "deployLab": true,
-    "phase": ,
+    "phase":"3-ext",
     "collegeName": "coep",
     "baseUrl": "eg-coep.vlabs.ac.in",
     "introduction": "Minerals - </br></br> - A mineral is a naturally occurring substance which is usually solid, crystalline, stable at room temperature.</br> - Minerals are inorganic compounds and are crystalline solids.</br> - Non-crystalline materials, synthetic minerals, biological minerals, and anthropogenic minerals are not, in general, considered to be true materials.</br> - We generally classify minerals based on their chemical composition by the atomic structure and crystal chemistry of the minerals. The most common physical properties are crystal form, color, hardness, cleavage, and specific gravity. </br></br></br> Igneous rocks - </br></br> - Formed when molten rock (magma or lava) cools and solidifies.</br></br></br> Sedimentary rocks - </br></br> These are formed due to the weathering and erosion of the pre-existing rocks. Sedimentary Rocks are classified on the basis of the character of the mineral and process which leads to its deposition. They accumulate in layers known as Sediments. </br></br></br> Metamorphic rocks - </br></br> - Metamorphic Rocks are formed through the transformation of the pre-existing rocks under increased temperature and pressure conditions. This process of transformation is known as Metamorphism. Formation of Metamorphism rock from a pre-existing rock; is controlled by the following parameters- Temperature, Pressure, Chemically active fluids which are known as Metamorphism agents.",
