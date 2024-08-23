@@ -60,6 +60,20 @@
       "repo": "https://github.com/virtual-labs/exp-textural-variation-metamorphic-rocks-coep",
       "tag": "v1.0.0",
       "deploy": true
+    },
+    {
+      "name": "Identification of Cores and Core logging",
+      "short-name": "core-logging",
+      "repo": "https://github.com/virtual-labs/exp-core-logging-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Preliminary Introduction to ROCK MECHANICS",
+      "short-name": "rock-mechanics",
+      "repo": "https://github.com/virtual-labs/exp-rock-mechanics-coep",
+      "tag": "v1.0.0",
+      "deploy": true
     }
   ],
   "targetAudience": {
